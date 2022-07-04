@@ -8,3 +8,4 @@ console.log(c)
 
 const d = 'd'
 const e = 'fixup e'
+const f = 'fixup fixup f'
