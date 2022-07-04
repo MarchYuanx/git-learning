@@ -1,6 +1,7 @@
 const a = 'a'
 const b = 'b'
-const c = 'c'
+const c = 'fixup c'
 
 console.log(a)
 console.log(b)
+console.log(c)
