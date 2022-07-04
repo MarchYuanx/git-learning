@@ -7,3 +7,4 @@ console.log(b)
 console.log(c)
 
 const d = 'd'
+const e = 'fixup e'
